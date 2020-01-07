@@ -1,6 +1,6 @@
 /*
 
-https://github.com/Andrewrico/thisel-published-npm.git
+https://github.com/Andrewrico/thisel-javascript-library
 https://andrewrico.com/
 
 # Released under MIT License
